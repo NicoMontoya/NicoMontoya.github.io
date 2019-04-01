@@ -11,7 +11,7 @@ My representations will show, to my best ability, facts from data and ideas that
 
 Thanks for being here :)
 
-My Interests include:
+#Interests:
 - Tennis
 - Machine Learning
 - Autonomous Vehicles
