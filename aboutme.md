@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why Data Science?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I really got into data Because it tells the truth about the world!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Things I like about data:
+- it measures objective things
+- can be run at scale with a computer
+- It's powering the world!
