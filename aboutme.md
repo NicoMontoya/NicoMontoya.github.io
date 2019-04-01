@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Why Data Science?
+image: /img/nico_az.jpg
 ---
 
 I really got into data Because it tells the truth about the world!
