@@ -2,7 +2,7 @@
 layout: post
 title: Should we fix the wells?
 subtitle: Predictive Model Exploration with Tanzania Water Wells
-image: /img/big-imgs/61oT0J2ipHL._SX425_.jpg
+image: /img/WaterHole008A.jpg
 published: True
 ---
 
