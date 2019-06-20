@@ -8,38 +8,12 @@ published: True
 
 ## **Goal**
 
-Using data about wells in Tanzania. The goal is to see if you can create a model to predict which water wells will be faulty, in order to go and fix them. The score will be based on 'accuracy'. 
+I participated in a competition using a dataset which contained information about water wells in Tanzania.  The competition was to build the best predictive model for classifying the water wells in Tanzania.  There were three classes of wells, functioning, non-functioning, and functioning but needs repairs.  Using some machine learning techniques, this post will go through my process of fine tuning a model to help with a real world problem.
 
-
-```python
-import pandas as pd
-import numpy as np
-import datetime as dt
-
-pd.set_option('display.max_columns', 500)
-y_train = pd.read_csv('/Users/lambda_school_loaner_95/Downloads/train_labels.csv')
-X_train = pd.read_csv('/Users/lambda_school_loaner_95/Downloads/train_features.csv')
-X_test = pd.read_csv('/Users/lambda_school_loaner_95/Downloads/test_features.csv')
-```
 
 **Quick Baseline**
 
-
-```python
-X_train.shape
-```
-
-
-
-
-    (59400, 40)
-
-
-
-
-```python
-y_train['status_group'].value_counts(normalize=True)
-```
+The first thing I look for when I train a model is a quick dumb baseline. In other words, what accuracy should I be able to obtain if I predicted that every well would fit into the most likely case.  Essentially guess c on every answer on a test.  
 
 
 
@@ -50,8 +24,9 @@ y_train['status_group'].value_counts(normalize=True)
     Name: status_group, dtype: float64
 
 
+It is simple enough to find this by counting the amount of each well from past data.  In this case the most likely scenario is that a well would be functioning. One can see from the chart above that the baseline is 54%.  If my model can be over 54% accurate, then I know I am heading in the right direction.
 
-Basic baseline to beat is 54% coming from the majority class in the target data.
+**Note**: I try my best to be cognizant of the actual problem at hand.  You can get 54% accuracy by guessing all wells will be functional, theoretically.  What is most useful though is if you can determine which wells are functional and just need to be repaired.  So guessing all wells will be functional will get you just the bare baseline, but it would not be useful at all.
 
 # Beat the baseline
 
