@@ -11,12 +11,12 @@ My projects are based on domains that I am interested in.  I am constantly seeki
 
 Thanks for being here :)
 
-#Interests:
-- Machine Learning
-- Predictive Models
-- Efficiency
-- Education
-- Philanhropy
-- Tennis
-- Problem Solving
-- many more...
+Skills/ Experience:
+- Predictive Modeling
+- Python
+- SQL
+- Spark
+- NLP
+- Statistics
+- Business Dev
+
