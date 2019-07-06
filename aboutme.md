@@ -19,4 +19,5 @@ Skills/ Experience:
 - NLP
 - Statistics
 - Business Dev
+- More...
 
