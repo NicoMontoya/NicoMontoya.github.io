@@ -6,9 +6,7 @@ image: /img/WaterHole008A.jpg
 published: True
 ---
 
-## **Goal**
-
-I participated in a competition using a dataset which contained information about water wells in Tanzania.  The competition was to build the best predictive model for classifying the water wells in Tanzania.  There were three classes of wells, functioning, non-functioning, and functioning but needs repairs.  Using some machine learning techniques, this post will go through my process of fine tuning a model to help with a real world problem.
+I participated in a competition using a dataset describing water wells in Tanzania.  The goal was to build the best predictive model for classifying the water wells in Tanzania.  There were three classes of wells, functioning, non-functioning, and functioning but needs repairs.  Using some machine learning techniques, and data analysis, this post will go through my process of fine tuning a model and thought process to help improve a real world problem.
 
 
 **Quick Baseline**
