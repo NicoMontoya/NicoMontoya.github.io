@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COrrelates of War
+title: Correlates of War
 subtitle: Using ML to search for correlates of War
 image: /img/the-pictures-that-defined-world-war-iis-featured-photo.jpg
 published: True
