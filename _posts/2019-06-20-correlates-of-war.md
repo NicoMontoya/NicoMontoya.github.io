@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Can You Help?
-subtitle: Using NLP to match users with relevant non-profits in their area
+title: COrrelates of War
+subtitle: Using ML to search for correlates of War
 image: /img/the-pictures-that-defined-world-war-iis-featured-photo.jpg
 published: True
 ---
