@@ -17,15 +17,27 @@ Notable Graphs:
 
 ![Men Handedness in the Top 100](/img/1*6c__FVEF551KYDxB0-vENg.png)
 
+This graph breaks down ATP handedness in the top 100 players.  Righty men are not surprisingly the most abundant. Are they the most dominant? That is yet to be understood.
+
 ![Women Handedness in the Top 100](/img/1*gZOeCL9V4donVDUxgqjhFA.png)
+
+Same break down for the women.  Lefty women seem to be less pervalent in the top 100.
 
 ![ATP Match Breakdown](/img/1*xbE1yEPDISl0bep1xqeSxw.png)
 
+Percentage of matches won by lefty vs # of left handed men in the top 100.  The yellow line demonstrates world average of left handers. Covers the past 8 years.
+
 ![WTA Match Breakdown](/img/1*FguHNDTiRbqpbJ9Mbyclzg.png)
+
+Percentage of matches won by lefty vs # of left handed women in the top 100.  The yellow line demonstrates world average of left handers.  Covers the past 8 years.
 
 ![ATP Surface Breakdown](/img/1*9Zh1_M0VhCswYMkNEJzTFw.png)
 
+Shows percentage of matches won by left handed men, grouped by specific surface.
+
 ![WTA Surface Breakdown](/img/1*FhUQbrAJQmeIvQKiJiXbDw.png)
+
+Shows percentage of matches won by left handed women, grouped by specific surface.
 
 
 
