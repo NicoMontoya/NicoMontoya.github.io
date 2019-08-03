@@ -15,3 +15,6 @@ Enter a search for how you want to help your community.
 
 
 Results take the user input, and runs it through my function which returns the most relevant non-profits in the database.
+
+
+[Link to GitHub Repo](https://github.com/build-week-how-can-you-help/Machine-Learning-Engineer "How Can You Help Repository")
