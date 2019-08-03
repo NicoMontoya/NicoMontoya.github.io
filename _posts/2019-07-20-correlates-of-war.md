@@ -6,4 +6,4 @@ image: /img/the-pictures-that-defined-world-war-iis-featured-photo.jpg
 published: True
 ---
 
-This is where my correlates of war project will go
+[Correlates of War Repo](https://github.com/correlates-of-war-build-week/COW-DataScience "COW repo")
