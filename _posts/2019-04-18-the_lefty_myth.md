@@ -12,6 +12,29 @@ Notable left handers are easy to point out. Nadal, McEnroe, Laver on the mens si
 
 In this study I will look at the top 100 men and women over the past 9 years as well as the matches that they played against each other. Primarily comparing their results based on the hand they primarily play with. I will briefly analyze if surface has any effect on the results as well.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+Notable Graphs:
+
+![Men Handedness in the Top 100](/img/1*6c__FVEF551KYDxB0-vENg.png)
+
+![Women Handedness in the Top 100](/img/1*gZOeCL9V4donVDUxgqjhFA.png)
+
+![ATP Match Breakdown](/img/1*xbE1yEPDISl0bep1xqeSxw.png)
+
+![WTA Match Breakdown](/img/1*FguHNDTiRbqpbJ9Mbyclzg.png)
+
+![ATP Surface Breakdown](/img/1*9Zh1_M0VhCswYMkNEJzTFw.png)
+
+![WTA Surface Breakdown](/img/1*FhUQbrAJQmeIvQKiJiXbDw.png)
+
+
+
+
+
+
+
+
+
 
 <a href="https://medium.com/@nmontoy03/the-lefty-myth-do-left-handed-tennis-players-have-an-advantage-4a2805ef4d64">Link to my Medium post</a>
 
