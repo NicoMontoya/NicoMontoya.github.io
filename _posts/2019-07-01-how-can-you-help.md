@@ -6,4 +6,12 @@ image: /img/Helping banner.jpg
 published: True
 ---
 
-This is where I will display my build week project.. How Can You Help ... url - howcanyouhelp.app
+![part 1 HCYH](/img/part-2-HCYH.png)
+
+
+Enter a search for how you want to help your community.
+
+![part 2 HCYH](/img/part-1-HCYH.png)
+
+
+Results take the user input, and runs it through my function which returns the most relevant non-profits in the database.
