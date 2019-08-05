@@ -11,13 +11,3 @@ My projects are based on domains that I am interested in.  I am constantly seeki
 
 Thanks for being here :)
 
-Skills/ Experience:
-- Predictive Modeling
-- Python
-- SQL
-- Spark
-- NLP
-- Statistics
-- Business Dev
-- More...
-
