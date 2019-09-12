@@ -2,7 +2,7 @@
 layout: post
 title: 99 Problems
 subtitle: Taking the Thinking out of Your Next Unicorn Idea
-image: 
+image: /img/99ShieldRed.png
 published: True
 ---
 Project Link: https://ninenineproblems.com
