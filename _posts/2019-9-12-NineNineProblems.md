@@ -5,7 +5,8 @@ subtitle: Taking the Thinking out of Your Next Unicorn Idea
 image: /img/99ShieldRed.png
 published: True
 ---
-Project Link: https://ninenineproblems.com
+Project Link: [ninenineproblems web app](https://ninenineproblems.com)
+
 
 **The Purpose**
 
