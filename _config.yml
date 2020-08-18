@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Medium Blog: "https://medium.com/@nmontoy03"
+  Writings: "_posts"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
