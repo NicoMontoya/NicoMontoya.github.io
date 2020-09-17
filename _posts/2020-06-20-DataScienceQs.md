@@ -6,6 +6,6 @@ image: /img/DataClusters.png
 published: True
 ---
 
-Notebooks that contain Data Science questions and (some) answers from DataInerviewQs.com
+Notebooks that contain Data Science questions and (some) answers from DataInterviewQs.com
 
 notebook Link: [notebooks](https://github.com/NicoMontoya/DataScienceQs)
