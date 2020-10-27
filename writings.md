@@ -1,6 +1,16 @@
 ## This Is For Me
 
-These writings are for me.  After listening to a lot of advice, reading many books, and observing many idols, I can only conclude that my thoughts pertain best to me individually. 
+These writings are for me.  After listening to a lot of advice, reading many books, and observing many idols, I can only conclude that my thoughts pertain best to me. 
 
 -----------------------------------------------------------
-## Next Writing
+## Walking my Little Sky (started on 10-27-2020)
+
+  She's still little to me.  Although everyone has told me how much she has grown. Sky, my ray of sunshine.. my little pup.  I'm convinced that she'll forever stay little to me.  I have walked her every day since I got her.  Only now have a really thought about the experience itself though.  Life is funny. Walking a dog may be one of the more relatable tasks among people who are lucky enough to own one of their own.  So relatable that it's not even worth talking about. Yet today, for some reason I came to the realization of how walking with my Sky can say so much about the rest of my life.
+  It's been several months since I first locked eyes with her.  I remember the first day, immediately becoming so attached to another living thing. I was terrified that she was never going to love me. Never going to get along with anyone or anything else. Never going to walk by my side.  I was in awe of the tasks that lay ahead of me, and at the same time eager to get started. 
+  The first day of walking went terribly.  Yet I took so much care in every detail about the situation.  She had the harness on, perfectly fit. Poop bags ready, treats in hand, water (just in case she gets thirsty). We never made it past the first block.  Day by day though, sure enough, we got a few feet further each time.  I know because I measured it. 
+  Fast forward to present day. We have the "hang of it".  At best. We got to a point where she is at a socially acceptable level of walking.  Some might even say she is exceptional, just because she doesn't bark at other dogs when we walk by.  Instead of working with her to figure out an optimal walking pace, I get frustrated and pull, and she will pull back. The funkier the smell, the stronger she'll pull, and the stronger I will pull back.  I actually grade how she walks each day based on how good she is at reading my mind for that particular walk on the direction we want to go. Needless to say.. she hasn't gotten a great grade in a while.  But it's okay.. because hey, the neighbor was delighted to see that she didn't bark while they walked by. Good job Sky.
+  What I realize is that this simple act of walking with Sky every day, actually reflects my interactions in life.  At first, whether it's a new task, or a new relationship (work, life, family), at first my discipline and growth curve is solid. I won't go as far as perfect.. but pretty solid. When these ideas mature, and get to a point of "socially above average".. things really slow down.  Maybe even degrade. And time just goes on. 
+  I saw that today. Sky and I haven't improved in a while.  People still think we are good walking together.. but how much value is that really? I want to walk further each day with Sky. Maybe even run with her.  I want us both to be incentivized to go in the same directions. Not because she might choke on her harness if she doesn't listen.. but because we both really want to. Heck, I want to have the most enjoyable and impressive walks with Sky than anyone in the world!
+  Yet the next day comes. I forget the treats at home.  The neighbor compliments Skylar again. And Skylar still can't read my mind... and a few months go by. 
+
+
