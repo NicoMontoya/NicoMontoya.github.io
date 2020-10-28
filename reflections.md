@@ -1,5 +1,9 @@
-## Reflections
-
+---
+layout: page
+title: Reflections
+subtitle: On Curious Events
+image: /img/nico_az.jpg
+---
 These writings are for me.  After listening to a lot of advice, reading many books, and observing many idols, I can only conclude that my thoughts pertain best to me. 
 
 -----------------------------------------------------------
