@@ -25,7 +25,7 @@ description: Welcome :)
 navbar-links:
   About Me: "aboutme"
   Reflections: "reflections"
-  Resources:
+  Other:
     - Where I've Been: "reflections"
 
 
