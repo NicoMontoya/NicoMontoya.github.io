@@ -1,1 +1,3 @@
-layout: globe
+---
+layout: page
+---
