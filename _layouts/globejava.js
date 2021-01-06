@@ -23,7 +23,7 @@ DAT.Globe = function(container, opts) {
     c.setHSL( ( 1.0 - ( x * 0.9 ) ), 1.0, 0.9 );
     return c;
   };
-  var imgDir = opts.imgDir || '/';
+  var imgDir = opts.imgDir || '../';
 
   var Shaders = {
     'earth' : {
